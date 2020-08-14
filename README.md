@@ -27,6 +27,40 @@ Reviews:
 
 ## What's New
 
+### 2.4.3
+- Putative fix for Venu™ crash on 2.80 firmware.
+
+### 2.4.2
+- 2nd attempt at fēnix® 5X crash. Bug in 15.10 firmware (requiresBurnInProtection incorrectly set to true) identified with invaluable help from jeriveraf.
+
+### 2.4.1
+- Putative fix for fēnix® 5X series crash. Thank you everyone for your patience.
+
+### 2.4.0
+- Add support for Venu™, with new always-on layout.
+- Add support for MARQ™ Adventurer and Commander.
+- Technical update to CIQ 3.1.5 SDK.
+
+### 2.3.7
+- Add bespoke fonts and layout for fēnix® 6X.
+- Improve readability of small font for all watches.
+
+### 2.3.6
+- Technical update to CIQ 3.1.4 SDK. Add support for fēnix® 6 series (except fēnix® 6X), Captain Marvel, First Avenger and vívoactive® 4 series.
+
+### 2.3.5
+- Add support for Forerunner® 45.
+
+### 2.3.4
+- Fix crash when changing numeric settings (e.g. "Calories Goal") using Connect IQ Store app.
+
+### 2.3.3
+- New Meter Style options, and new Meter Digits Style setting.
+- Fix issue when setting field or indicator count to 0.
+- Fix display of weather icon on Forerunner® 735XT.
+- Fix German translation typo.
+- Technical update to CIQ 3.0.11 SDK. Add support for Forerunner® 245/245 Music/945 and vívolife.
+
 ### 2.3.2
 - Fix issues with weather and humidity not updating.
 - Technical update to CIQ 3.0.10 SDK. Add support for MARQ™ series and vívoactive® 3 Mercedes-Benz.
